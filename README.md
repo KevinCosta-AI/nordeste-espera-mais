@@ -4,7 +4,7 @@ Prazo de entrega no e-commerce brasileiro: 96.470 pedidos entregues, dados públ
 
 ## A pergunta
 
-Moro em Fortaleza e tinha a impressão de esperar mais que quem mora em São Paulo. Impressão não é dado, então fui medir.
+Moro em Fortaleza e, **quando compro pela internet**, tinha a impressão de esperar mais que quem mora em São Paulo. Impressão não é dado, então fui medir.
 
 ## O que encontrei
 
