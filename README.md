@@ -22,6 +22,14 @@ A entrega para o Nordeste não é só mais lenta: é menos previsível. E prazo 
 
 Comecei achando que a distância explicava tudo. Fui buscar o prazo prometido por região para confirmar — e a hipótese caiu. Refazer a análise a partir daí foi o que deu o resultado.
 
+## O que este número não mostra
+
+**Só olhei pedidos que chegaram.** Não dá para medir tempo de entrega de pedido que nunca chegou — e é aí que mora o problema maior. Se o Nordeste tiver proporcionalmente mais pedidos cancelados ou extraviados, os 19,5 dias e os 12,7% são o **piso, não o teto**.
+
+O [Projeto 3](https://github.com/KevinCosta-AI/o-que-o-cliente-reclama) mostrou o tamanho disso: a queixa mais comum de quem teve pedido atrasado não é a demora, é **não saber onde está o pedido**.
+
+E não é uma amostra do Brasil: é a Olist, um marketplace, entre 2016 e 2018.
+
 ## Como rodar
 
 Abra o notebook no Google Colab e execute as células em ordem. Os dados são baixados pelo próprio notebook: não é preciso instalar nada.
